@@ -1,0 +1,7 @@
+Uploaded asset check:
+- the_whistler model: valid Blockbench geometry, texture size 128x128 in LayerDefinition.
+- the_whistler walk animation: 0.5s looping animation, legs/hands/head channels present.
+- daddyinred model: valid Blockbench geometry, texture size 1024x1024 in LayerDefinition.
+- Daddy walk animation: 0.7083s looping animation, legs/head/hands channels present.
+- Duplicate files were not copied into the final project because they contained the same model/animation classes.
+- The two supplied PNGs are transparent character renders, not standard UV texture sheets. Temporary atlases were generated for this build.

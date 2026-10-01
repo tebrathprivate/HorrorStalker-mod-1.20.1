@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "horrorstalker",
+  "version": "${version}",
+  "name": "Horror Stalker",
+  "description": "A small horror mod with The Whistler and Daddy in Red.",
+  "authors": ["ChatGPT"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.horrorstalker.HorrorStalker"],
+    "client": ["com.horrorstalker.client.HorrorStalkerClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "fabric-api": ">=0.92.12+1.20.1",
+    "java": ">=17"
+  }
+}
